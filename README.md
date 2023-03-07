@@ -1,2 +1,2 @@
 # bootcampdio-desafio-github-primeiro-repositorio
-Primeiro Desafio dfe Projeto sobre Git/GitHub
+Primeiro Desafio de Projeto da Dio de Git/GitHub
